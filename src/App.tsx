@@ -1,7 +1,11 @@
-
+import Home from "./Home";
 
 function App() {
-  return <div>App começa aqui</div>;
+  return (
+    <div>
+      <Home />
+    </div>
+  );
 }
 
 export default App;
