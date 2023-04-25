@@ -2,15 +2,15 @@ import styled from "styled-components";
 
 const HeaderStyled = styled.header`
   width: 100vw;
-  height: 70px;
+  height: 150px;
   box-sizing: border-box;
-  background-color: #8789c0;
+  background-color: #064789;
 
-  display: flex;
-  justify-content: center;
+  text-align: center;
 
   h1 {
     color: #f4faff;
+    padding-top: 20px;
   }
 `;
 

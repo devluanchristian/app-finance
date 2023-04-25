@@ -1,3 +1,4 @@
+import Card from "../components/Card";
 import Header from "../components/Header";
 import GlobalStyled from "../style/global";
 
@@ -6,6 +7,7 @@ const Home = () => {
     <>
       <GlobalStyled />
       <Header />
+      <Card />
     </>
   );
 };
