@@ -9,5 +9,17 @@ export default createGlobalStyle`
   }
   body{
     background: #EBF2FA;
+    box-sizing: border-box;
+  }
+  .container{
+    width: 100vw;
+    height: 100%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid red;
+    gap: 30px;
   }
   `;

@@ -1,8 +1,7 @@
 import styled from "styled-components";
 
 export const CardStyled = styled.div`
-  max-width: 1000px;
-  width: 98%;
+  width: 70%;
   margin: 0 auto;
   gap: 20px;
   margin-top: -50px;

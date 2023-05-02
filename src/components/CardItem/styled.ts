@@ -6,7 +6,7 @@ export const CardItemStyled = styled.div`
   align-items: center;
   background-color: #f4faff;
   border-radius: 5px;
-  padding: 5px 5px;
+  padding: 5px;
   width: 30%;
 
   .container-card-item {
